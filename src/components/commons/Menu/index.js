@@ -23,7 +23,7 @@ export default function Menu(){
       <MenuWrappper.LeftSide>
         <Logo />
       </MenuWrappper.LeftSide>
-      <MenuWrappper.CentralSide>
+      <MenuWrappper.CentralSide> 
         {links.map((link) => {
             return(<li>
                   <a href={link.url}>
