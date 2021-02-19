@@ -3,7 +3,6 @@ import { Logo } from '../../../../theme/Logo';
 import { Button } from '../Button';
 import { MenuWrapper } from './styles/MenuWrapper';
 
-
 const links = [
     {
         texto: 'Home',
