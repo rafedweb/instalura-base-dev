@@ -1,9 +1,9 @@
 {
   "name": "with-styled-components",
   "version": "1.0.0",
-  "scripts": {    
+  "scripts": {
     "dev": "next",
-    "build": "next build --output public",
+    "build": "next build ",
     "export": "next build && next export",
     "start": "next start"
   },
